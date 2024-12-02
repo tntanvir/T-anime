@@ -28,7 +28,7 @@ const Hero = ({ data }) => {
                                 key={index}
                                 className="flex flex-col md:flex-row items-center md:items-start  text-white h-[500px] md:gap-8 gap-4 "
                             >
-                                <div className="bg-green-500 relative">
+                                <div className=" relative">
 
                                     {/* Text Section */}
                                     <div className=" w-full space-y-6 absolute  text-white h-full p-10"

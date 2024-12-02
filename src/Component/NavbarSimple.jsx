@@ -92,7 +92,7 @@ export function NavbarSimple({ openDrawer, closeDrawer }) {
 
                             T
                         </span>
-                        <span className="text-2xl">anime</span>
+                        <span className="text-2xl">Anime</span>
                     </Typography>
                 </div>
                 <div className="hidden lg:block">
